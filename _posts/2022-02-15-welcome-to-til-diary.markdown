@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to my Today I Learned Diary (TIL Diary)!"
-date: 2022-042-15 12:00:00 +0100
+date: 2022-02-15 12:00:00 +0100
 description: Hi! # Add post description (optional)
 img:  # Add image post (optional)
 ---
