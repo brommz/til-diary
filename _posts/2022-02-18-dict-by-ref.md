@@ -8,7 +8,7 @@ description: Hi! # Add post description (optional)
 It's pretty simple. Try it out.
 
 {% highlight csharp %}
-ref var valueRef = ref CollectionsMarshal.GetValueRefOrAddDefault(dictionaryObject, "key", out _);
+ref var valueRef = ref CollectionsMarshal.GetValueRefOrAddDefault(dict, "key", out _);
 {% endhighlight %}
 
 [https://github.com/brommz/poc-tests/blob/main/Program.cs](https://github.com/brommz/poc-tests/blob/main/Program.cs)
