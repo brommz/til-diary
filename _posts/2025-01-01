@@ -1,0 +1,83 @@
+
+
+## VS/RESHARPER
+
+ 
+
+* Find All References
+
+`ALT F7`
+
+ 
+
+* Go To Declaration
+
+`CTRL B`
+
+ 
+
+* Go To Implementation
+
+`Ctrl Shift Alt B`
+
+ 
+
+* Show Action List
+
+It opens the action list presenting quick-fix and refactoring suggestions
+
+`ALT ENTER`
+
+ 
+
+* Rename
+
+`Ctrl R R`
+
+ 
+
+* Show TODO Explorer
+
+`Ctrl Alt D`
+
+ 
+
+* Remove Line (and copy it)
+
+`CTRL L`
+
+ 
+
+* Move lines up and down
+
+`Ctrl Alt Shift ↑ ↓`
+
+ 
+
+* Locate In Solution Explorer
+
+`SHITFT Alt L`
+
+ 
+
+* Generate Code
+
+`ALT INSERT`
+
+ 
+
+* Go to next/previous error in the solution
+
+`SHIFT AL PGUP/PGDOWN`
+
+ 
+
+* Select Cointaining Declaration
+
+` Ctrl Shift [`
+
+ 
+
+* Go to recent edits
+
+`Ctrl Shift ,`
